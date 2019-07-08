@@ -1,0 +1,10 @@
+{
+  "name": "employee-list-with-settings-connector",
+  "version": "0.1.0",
+  "description": "",
+  "main": "proxy.js",
+  "dependencies": {
+   
+  },
+  "devDependencies": {}
+}

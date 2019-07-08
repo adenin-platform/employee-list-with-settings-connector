@@ -1,0 +1,8 @@
+ServiceName: employee
+InterfaceName: items
+Description: employee search with settings
+APIDoc: ''
+Interfaces: 'search,pagination'
+RequiredScopes: ''
+AdditionalParameters: 
+Method: ''
